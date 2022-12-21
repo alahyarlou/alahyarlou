@@ -10,7 +10,7 @@
 </br>  
 
  ```javascript
-const Ehsan = {
+const Ali = {
   pronouns: ["Ali", "BoyCode", "He"],
   Languages: ["Javascript", "Python"],
   Tools: ["VSCode", "Node"],
