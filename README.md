@@ -11,7 +11,7 @@
 
  ```javascript
 const Ali = {
-  pronouns: ["Ali", "BoyCode", "He"],
+  pronouns: ["Ali","He"],
   Languages: ["Javascript", "Python"],
   Tools: ["VSCode", "Node"],
   hobbies: {
