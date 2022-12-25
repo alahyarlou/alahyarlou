@@ -36,6 +36,4 @@ const Ali = {
 <a href="http://instagram.com/_alahyarlou_"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/instagram.svg" alt="instagram" width="90"></a>
 </div>
 
-<h2>Like the stuff you see here?</h2>
-#
-<div align="center"><font size="2px;">2022 © Created By Ali Alahyarlou</font></div>
+<div align="center"><font size="2px;">2022 Ali Alahyarlou</font></div>
