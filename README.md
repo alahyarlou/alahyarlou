@@ -12,7 +12,8 @@
  ```javascript
 const Ali = {
   pronouns: ["Ali","He"],
-  Languages: ["Javascript", "Python"],
+  Skills: ["Html5","Css3","Javascript(Es6+)","Csharp","C++","Python"],
+  Frameworks:["Bootstrap","Tailwindcss","Reactjs","Nextjs","Materialize css","Sass"],
   Tools: ["VSCode", "Node"],
   hobbies: {
     Games: ["Counter-Strike Global Offensive", "Stronghold Crusader Extreme"],
