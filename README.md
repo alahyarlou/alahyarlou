@@ -122,10 +122,9 @@ I love turning ideas into real products with beautiful interfaces and powerful b
 # 📊 GitHub Statistics
 
 <div align="center">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=alahyarlou&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=alahyarlou&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alahyarlou&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alahyarlou&theme=github-compact" />
 
 </div>
 
@@ -135,7 +134,7 @@ I love turning ideas into real products with beautiful interfaces and powerful b
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alahyarlou&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alahyarlou&layout=compact&theme=tokyonight" />
 
 </div>
 
